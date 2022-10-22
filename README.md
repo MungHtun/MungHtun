@@ -5,7 +5,7 @@ I am a full-stack **.Net** developer from Myanmar.
 ### Connect with me on:
 
 [![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://ra1nbow.xyz?ref=github)
-[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
+[![](https://img.shields.io/badge/Linkedin-fff?&logo=Linkedin&logoColor=0e76a8)](https://discord.gg/CtRp5GB)
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/raenbov)
 [![](https://img.shields.io/badge/-dev.to-FFF?&logo=dev.to&logoColor=000)](https://dev.to/ra1nbow1)
 [![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@ra1nbow1)
@@ -44,13 +44,6 @@ I am a full-stack **.Net** developer from Myanmar.
 [![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://ra1nbow.xyz?ref=github)
 [![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://ra1nbow.xyz?ref=github)
 [![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://ra1nbow.xyz?ref=github)
-
-<a href="https://ra1nbow.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ra1nbow1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
-</a>
-<a href="https://ra1nbow.xyz?ref=github">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
 
 <p align="center"> 
   Visitor count<br>
