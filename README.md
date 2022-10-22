@@ -4,12 +4,7 @@ I am a full-stack **.Net** developer from Myanmar.
 
 ### Connect with me on:
 
-<!-- [![](https://img.shields.io/badge/-🌈%20Website-FFF)] -->
-
 [![](https://img.shields.io/badge/Linkedin-fff?&logo=Linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/sing-nan-mung-htun/)
-
-<!-- [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://linkedin.com/in/gapur-kassym) -->
-
 [![](https://img.shields.io/badge/whatsapp-fff?&logo=whatsapp)](https://wa.me/959941005786)
 
 ### Languages
