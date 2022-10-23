@@ -9,9 +9,9 @@ I am a full-stack **.Net** developer from Myanmar.
 
 ### Languages
 
-[![C#](https://img.shields.io/badge/C%23-000?logo=c-sharp)]()
-[![](https://img.shields.io/badge/-HTML-000?&logo=html5)]()
-[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)]()
+[C#](https://img.shields.io/badge/C%23-000?logo=c-sharp)
+![](https://img.shields.io/badge/-HTML-000?&logo=html5)
+(https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]()
 [![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-000?&logo=microsoft%20sql%20server)]()
 [![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]()
